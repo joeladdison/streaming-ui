@@ -1,0 +1,140 @@
+{
+  "ts": "2018-01-18T21:53:09.298290+11:00",
+  "rooms": [
+    {
+      "events": [
+        {
+          "end": "2018-01-22T11:10:00+11:00",
+          "uid": "116",
+          "nam": "Creating a streaming system",
+          "abs": "https://your.event/presentation/123",
+          "aut": "Joel Addison",
+          "sta": "2018-01-22T10:45:00+11:00"
+        },
+
+        {
+          "nam": "Break",
+          "end": "2018-01-22T16:35:00+11:00",
+          "uid": "263",
+          "sta": "2018-01-22T16:30:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid1",
+      "id": "roomid1",
+      "name": "Room 1"
+    },
+    {
+      "events": [
+        {
+          "nam": "Conference Opening",
+          "end": "2018-01-22T10:10:00+11:00",
+          "uid": "111",
+          "sta": "2018-01-22T09:00:00+11:00"
+        },
+        {
+          "end": "2018-01-22T10:50:00+11:00",
+          "uid": "113",
+          "nam": "Tutorial 3",
+          "abs": "https://your.event/presentation/245",
+          "aut": "Tutorial Author",
+          "sta": "2018-01-22T10:45:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid2",
+      "id": "roomid2",
+      "name": "Room 2"
+    },
+    {
+      "events": [
+        {
+          "end": "2018-01-24T12:25:00+11:00",
+          "uid": "8",
+          "nam": "Getting Started with React",
+          "abs": "https://your.event/presentation/345",
+          "aut": "A Teacher",
+          "sta": "2018-01-24T10:45:00+11:00"
+        },
+        {
+          "end": "2018-01-24T15:20:00+11:00",
+          "uid": "21",
+          "nam": "Practical JSON",
+          "abs": "https://your.event/presentation/382",
+          "aut": "A Person",
+          "sta": "2018-01-24T13:40:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid3",
+      "id": "roomid3",
+      "name": "Room 3"
+    },
+    {
+      "events": [
+        {
+          "end": "2018-01-22T11:10:00+11:00",
+          "uid": "114",
+          "nam": "Presentation Title",
+          "abs": "https://your.event/presentation/464",
+          "aut": "Author",
+          "sta": "2018-01-22T10:45:00+11:00"
+        },
+        {
+          "end": "2018-01-22T11:35:00+11:00",
+          "uid": "196",
+          "nam": "Yet another presentation",
+          "abs": "https://your.event/presentation/498",
+          "aut": "Awesome Presenter",
+          "sta": "2018-01-22T11:10:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid4",
+      "id": "roomid4",
+      "name": "Room 4"
+    },
+    {
+      "events": [
+        {
+          "end": "2018-01-23T10:55:00+11:00",
+          "uid": "138",
+          "nam": "Another Talk",
+          "abs": "https://your.event/presentation/536",
+          "aut": "Another Author",
+          "sta": "2018-01-23T10:45:00+11:00"
+        },
+        {
+          "end": "2018-01-23T11:30:00+11:00",
+          "uid": "267",
+          "nam": "Event Closing",
+          "abs": "https://your.event/presentation/555",
+          "aut": "Event Organiser",
+          "sta": "2018-01-23T10:55:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid5",
+      "id": "roomid5",
+      "name": "Room 5"
+    },
+    {
+      "events": [
+        {
+          "end": "2018-01-22T11:10:00+11:00",
+          "uid": "223",
+          "nam": "Talk 612",
+          "abs": "https://your.event/presentation/612",
+          "aut": "A person",
+          "sta": "2018-01-22T10:50:00+11:00"
+        },
+        {
+          "end": "2018-01-22T11:30:00+11:00",
+          "uid": "224",
+          "nam": "Streaming to YouTube",
+          "abs": "https://your.event/presentation/613",
+          "aut": "Another Person",
+          "sta": "2018-01-22T11:10:00+11:00"
+        }
+      ],
+      "youtube": "youtubeid6",
+      "id": "roomid6",
+      "name": "Room 6"
+    }
+  ]
+}
